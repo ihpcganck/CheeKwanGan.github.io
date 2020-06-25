@@ -6,6 +6,8 @@ You can use the [editor on GitHub](https://github.com/ihpcganck/cheekwang.github
 
 [Angular Momentum, Google site](https://sites.google.com/view/cheekwangan/test-page?authuser=0)
 
+[Raw file on Angular Momentum, Github link](https://github.com/ihpcganck/Another-test/blob/master/gg.html)
+
 [Angular Momentum, Github link](https://htmlpreview.github.io/?https://github.com/ihpcganck/Another-test/blob/master/gg.html)
 
 [A new stuff](https://htmlpreview.github.io/?https://github.com/bartaz/impress.js/blob/master/index.html)
