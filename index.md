@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ihpcganck/cheekwang.github
 
 [CheeKwanGan's site](https://sites.google.com/view/cheekwangan/home) 
 
-[Angular Momentum](https://sites.google.com/view/cheekwangan/test-page?authuser=0)
+[Angular Momentum, Google site](https://sites.google.com/view/cheekwangan/test-page?authuser=0)
 
 [Angular Momentum, Github link](https://htmlpreview.github.io/?https://github.com/ihpcganck/Another-test/blob/master/gg.html)
 
