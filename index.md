@@ -1,6 +1,6 @@
 ## Welcome to Chee Kwan Gan GitHub Pages
 
-[Chee Kwan Gan's google site](https://sites.google.com/view/cheekwangan/home) 
+[Chee Kwan Gan's Google site](https://sites.google.com/view/cheekwangan/home) 
 
 [Angular Momentum via "cut and paste" on Google site](https://sites.google.com/view/cheekwangan/test-page?authuser=0)
 
