@@ -10,6 +10,8 @@
 
 [Angular Momentum via htlatex on Github](https://htmlpreview.github.io/?https://github.com/ihpcganck/Page/blob/master/htlatex-angular-momentum.html)
 
+[CV via htlatex on Github](https://htmlpreview.github.io/?https://github.com/ihpcganck/Page/blob/master/cv.html)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
