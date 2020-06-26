@@ -1,18 +1,17 @@
-## Welcome to (Chee Kwan Gan) GitHub Pages
+## Welcome to Chee Kwan Gan GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ihpcganck/cheekwang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-[CheeKwanGan's site](https://sites.google.com/view/cheekwangan/home) 
+[Chee Kwan Gan's google site](https://sites.google.com/view/cheekwangan/home) 
 
-[Angular Momentum, Google site](https://sites.google.com/view/cheekwangan/test-page?authuser=0)
+[Angular Momentum via "cut and paste" on Google site](https://sites.google.com/view/cheekwangan/test-page?authuser=0)
 
-[Pandoc Angular Momentum, Github](https://htmlpreview.github.io/?https://github.com/ihpcganck/Page/blob/master/pandoc-angular-momentum.html)
+[Angular Momentum via Pandoc on Github](https://htmlpreview.github.io/?https://github.com/ihpcganck/Page/blob/master/pandoc-angular-momentum.html)
 
-[Raw file on Angular Momentum, Github link](https://github.com/ihpcganck/Page/blob/master/htlatex-angular-momentum.html)
+[Angular Momentum in raw form via htlatex on Github](https://github.com/ihpcganck/Page/blob/master/htlatex-angular-momentum.html)
 
-[Angular Momentum, Github link](https://htmlpreview.github.io/?https://github.com/ihpcganck/Page/blob/master/htlatex-angular-momentum.html)
+[Angular Momentum via htlatex on Github](https://htmlpreview.github.io/?https://github.com/ihpcganck/Page/blob/master/htlatex-angular-momentum.html)
 
-[A new stuff](https://htmlpreview.github.io/?https://github.com/bartaz/impress.js/blob/master/index.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
