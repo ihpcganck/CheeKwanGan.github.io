@@ -8,9 +8,9 @@ You can use the [editor on GitHub](https://github.com/ihpcganck/cheekwang.github
 
 [Pandoc Angular Momentum, Github](https://htmlpreview.github.io/?https://github.com/ihpcganck/Page/blob/master/pandoc-angular-momentum.html)
 
-[Raw file on Angular Momentum, Github link](https://github.com/ihpcganck/Another-test/blob/master/gg.html)
+[Raw file on Angular Momentum, Github link](https://github.com/ihpcganck/Page/blob/master/htlatex-angular-momentum.html)
 
-[Angular Momentum, Github link](https://htmlpreview.github.io/?https://github.com/ihpcganck/Another-test/blob/master/gg.html)
+[Angular Momentum, Github link](https://htmlpreview.github.io/?https://github.com/ihpcganck/Page/blob/master/htlatex-angular-momentum.html)
 
 [A new stuff](https://htmlpreview.github.io/?https://github.com/bartaz/impress.js/blob/master/index.html)
 
