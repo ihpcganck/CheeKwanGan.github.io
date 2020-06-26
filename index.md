@@ -1,7 +1,5 @@
 ## Welcome to Chee Kwan Gan GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ihpcganck/cheekwang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 [Chee Kwan Gan's google site](https://sites.google.com/view/cheekwangan/home) 
 
 [Angular Momentum via "cut and paste" on Google site](https://sites.google.com/view/cheekwangan/test-page?authuser=0)
